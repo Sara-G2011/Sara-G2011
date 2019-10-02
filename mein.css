@@ -1,0 +1,7 @@
+h2 {
+	color: #313131;
+	font-size: 2em;
+	margin-top: 50px;
+	border-bottom: 2px red dotted;
+	overflow: hidden;
+}
